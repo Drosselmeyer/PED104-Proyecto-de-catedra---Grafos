@@ -1,0 +1,6 @@
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\PED104 Proyecto de catedra - Grafos.csprojAssemblyReference.cache
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\Simulación_de_ensamblaje_de_una_linea_de_automoviles.FormularioInicial.resources
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\PED104_Proyecto_de_catedra___Grafos.Properties.Resources.resources
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\PED104 Proyecto de catedra - Grafos.csproj.GenerateResource.cache
+C:\Users\Jonas\source\repos\PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos\obj\Debug\PED104 Proyecto de catedra - Grafos.csproj.CoreCompileInputs.cache

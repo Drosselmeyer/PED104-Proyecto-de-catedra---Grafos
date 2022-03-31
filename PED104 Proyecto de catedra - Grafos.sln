@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PED104 Proyecto de catedra - Grafos", "PED104 Proyecto de catedra - Grafos\PED104 Proyecto de catedra - Grafos.csproj", "{FB6F5CE8-8D7A-4213-A422-2323BCE331AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6F5CE8-8D7A-4213-A422-2323BCE331AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6F5CE8-8D7A-4213-A422-2323BCE331AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6F5CE8-8D7A-4213-A422-2323BCE331AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6F5CE8-8D7A-4213-A422-2323BCE331AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068A346F-7D07-473A-8A39-D30C991F425C}
+	EndGlobalSection
+EndGlobal
